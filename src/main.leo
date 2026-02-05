@@ -1,7 +1,7 @@
 program helloworld1956.aleo {
     // The 'helloworld' main function.
     transition main(public a: u32, b: u32) -> u32 {
-        return a + b;
+        return a + 2*b;
     }
 
     // The constructor is configured to prevent upgrades.
