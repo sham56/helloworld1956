@@ -6,7 +6,7 @@ program helloworld1956.aleo {
 
     // The constructor is configured to prevent upgrades.
     // Account 1
-    // Account 2
+    // upgrade 27.02.2026
     // upgrade 19.02.2026
     @admin(address = "aleo13kycnm5x9dq6hq4dtxjm75ak36840ypksgdarxl5f2lc32hfjypsqzjfuj")
     async constructor() {}}
